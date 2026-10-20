@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi welcome to Christopher Lo's GitHub page
+There really isn't a lot going on here, but hopefully that changes one day.
 
 <!--
 **christopherlo1/christopherlo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
